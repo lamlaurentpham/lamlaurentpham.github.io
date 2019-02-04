@@ -47,14 +47,3 @@ I enjoy translating and giving a new breath of life to old French mathematics cl
 |2019| May 19-24|Equidistribution, Invariant Measures and Applications: A tribute to the Legacy of Marina Ratner|The Hebrew University of Jerusalem (Israel)|
 |2019|Mar 25-29|Number Theory and Dynamics Conference|CMS, University of Cambridge (UK)|
 |2019|Feb 17-21|Super Strong Approximation in Groups|The Hebrew University of Jerusalem (Israel)|
-
-## Education
-
-|Year|Institution|Degree|   
-|---|---|---|  
-|2019 (expected)|Yale University|Ph.D. in Mathematics|  
-|2016|Yale University|M.Phil. in Mathematics|  
-|2015|Yale University|M.S. in Mathematics|  
-|2013|Stanford University|M.S. in Computational and Mathematical Engineering (iCME)|  
-|2011|Ecole Centrale Paris|M.S. in Aerospace Engineering|  
-|2011|Ecole Centrale Paris|Diplôme d'Ingénieur|  
