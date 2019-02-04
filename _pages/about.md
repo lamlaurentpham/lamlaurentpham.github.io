@@ -16,7 +16,7 @@ I am currently a PhD student in Mathematics at Yale University, advised by Profe
 - Rutgers University, Number theory seminar, 10/30/2018
 - CUNY Graduate Center, New York group theory seminar, 10/26/2018
 
-### Papers in reverse chronological order
+## Papers in reverse chronological order
 
 | No. | Status | Year | Title | Link |
 |---|---|---|---|---|
