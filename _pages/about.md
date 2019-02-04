@@ -12,7 +12,7 @@ I am currently a PhD student in Mathematics at Yale University, advised by Profe
 
 I am primarily interested in Lie groups, their discrete subgroups, and arithmetic groups.
 
-Previously, I completed an M.S. in Computational & Mathematical Engineering at Stanford University, and an M.S. in Aerospace Engineering at Ecole Centrale Paris, where I studied [Plasma Assisted Combustion](https://ieeexplore.ieee.org/document/6012535).
+Previously, I completed an M.S. in Computational & Mathematical Engineering at Stanford University, and an M.S. in Aerospace Engineering and Diplôme d'Ingénieur at Ecole Centrale Paris, where I studied [Plasma Assisted Combustion](https://ieeexplore.ieee.org/document/6012535).
 
 ## Papers
 
