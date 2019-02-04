@@ -13,8 +13,11 @@ redirect_from:
 
 Education
 ======
-* Yale University, Ph.D. in Mathematics (expected 2019)
-* Yale University, M.Phil. in Mathematics (2016)
-* Yale University, M.S. in Mathematics (2015)
-* Stanford University, M.S. in Computational and Mathematical Engineering (iCME) (2013)
-* Ecole Centrale Paris, M.S. in Aerospace Engineering and Diplôme d'Ingénieur (2011)
+|Year|Institution|Degree|
+|---|---|---|
+|2019 (expected)|Yale University|Ph.D. in Mathematics|
+|2016|Yale University|M.Phil. in Mathematics|
+|2015|Yale University|M.S. in Mathematics|
+|2013|Stanford University|M.S. in Computational and Mathematical Engineering (iCME)|
+|2011|Ecole Centrale Paris|M.S. in Aerospace Engineering|
+|2011|Ecole Centrale Paris|Diplôme d'Ingénieur|
