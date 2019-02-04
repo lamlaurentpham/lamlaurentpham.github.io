@@ -20,26 +20,30 @@ Previously, I completed an M.S. in Computational & Mathematical Engineering at S
 |---|---|---|---|
 |2019||A strong Tits alternative for the affine group of the plane (Ph.D. Thesis)| |
 |2019|_In preparation_|Locally commutative free groups acting on the plane||
-|2018|_Preprint|Uniform Kazhdan constants and paradoxes of the plane|[Link](https://www.dropbox.com/s/1wopzdriys3plgg/2018-December-uniform-affine.pdf?dl=0)|
+|2018|_Preprint_|Uniform Kazhdan constants and paradoxes of the plane|[Link](https://www.dropbox.com/s/1wopzdriys3plgg/2018-December-uniform-affine.pdf?dl=0)|
 
 ## Books and translations
 
 I enjoy translating and giving a new breath of life to old French mathematics classics by translating them into English. If you would like to work together on an old classic, please let me know!
 
-| Status | Year | Author(s) | Title |
+| Year | Status | Author(s) | Title |
 |---|---|---|---|
-|_Forthcoming_|1969|Armand Borel|Introduction aux groupes arithmétiques|
-|_In Progress_|1965|Armand Borel & Jacques Tits|Groupes réductifs|
+|1969|_Forthcoming_|Armand Borel|Introduction aux groupes arithmétiques|
+|1965|_In Progress_|Armand Borel & Jacques Tits|Groupes réductifs|
 
 ## Invited Talks
 
-- University of Cambridge, Discrete analysis seminar, 11/23/2018
-- Rutgers University, Number theory seminar, 10/30/2018
-- CUNY Graduate Center, New York group theory seminar, 10/26/2018
+|Date|Location|Seminar|
+|---|---|---|
+|11/23/2018|University of Cambridge|Discrete analysis seminar|
+|10/30/2018|Rutgers University|Number theory seminar|
+|10/26/2018|CUNY Graduate center|New York group theory seminar|
 
 ## Upcoming (tentative) travel
 
-- 2019, May 27-31: Dynamics of Group Actions, une conférence en l’honneur des 60 ans d'Yves Benoist, Cretaro (Italy)
-- 2019, May 19-24: Equidistribution, Invariant Measures and Applications: A tribute to the Legacy of Marina Ratner, The Hebrew University of Jerusalem (Israel)
-- 2019, March 25-29: Number Theory and Dynamics Conference 2019, CMS, University of Cambridge (UK)
-- 2019, February 17-21: Super Strong Approximation in Groups, The Hebrew University of Jerusalem (Israel)
+|Dates|Location|Conference Title|
+|---|---|---|
+|2019, May 27-31|Dynamics of Group Actions, une conférence en l’honneur des 60 ans d'Yves Benoist|Cretaro (Italy)|
+|2019, May 19-24|Equidistribution, Invariant Measures and Applications: A tribute to the Legacy of Marina Ratner|The Hebrew University of Jerusalem (Israel)|
+|2019, March 25-29|Number Theory and Dynamics Conference|CMS, University of Cambridge (UK)|
+|2019, February 17-21|Super Strong Approximation in Groups|The Hebrew University of Jerusalem (Israel)|
