@@ -33,17 +33,17 @@ I enjoy translating and giving a new breath of life to old French mathematics cl
 
 ## Invited Talks
 
-|Date|Location|Seminar|
-|---|---|---|
-|11/23/2018|University of Cambridge|Discrete analysis seminar|
-|10/30/2018|Rutgers University|Number theory seminar|
-|10/26/2018|CUNY Graduate center|New York group theory seminar|
+|Year|Date|Location|Seminar|
+|---|---|---|---|
+|2018|Nov 23|University of Cambridge|Discrete analysis seminar|
+|2018|Oct 30|Rutgers University|Number theory seminar|
+|2018|Oct 26|CUNY Graduate center|New York group theory seminar|
 
 ## Upcoming (tentative) travel
 
-|Dates|Location|Conference Title|
-|---|---|---|
-|2019, May 27-31|Dynamics of Group Actions, une conférence en l’honneur des 60 ans d'Yves Benoist|Cretaro (Italy)|
-|2019, May 19-24|Equidistribution, Invariant Measures and Applications: A tribute to the Legacy of Marina Ratner|The Hebrew University of Jerusalem (Israel)|
-|2019, March 25-29|Number Theory and Dynamics Conference|CMS, University of Cambridge (UK)|
-|2019, February 17-21|Super Strong Approximation in Groups|The Hebrew University of Jerusalem (Israel)|
+|Year|Dates|Location|Conference Title|
+|---|---|---|---|
+|2019|May 27-31|Dynamics of Group Actions, une conférence en l’honneur des 60 ans d'Yves Benoist|Cretaro (Italy)|
+|2019| May 19-24|Equidistribution, Invariant Measures and Applications: A tribute to the Legacy of Marina Ratner|The Hebrew University of Jerusalem (Israel)|
+|2019|Mar 25-29|Number Theory and Dynamics Conference|CMS, University of Cambridge (UK)|
+|2019|Feb 17-21|Super Strong Approximation in Groups|The Hebrew University of Jerusalem (Israel)|
