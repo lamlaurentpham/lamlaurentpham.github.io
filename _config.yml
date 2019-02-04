@@ -85,10 +85,10 @@ author:
   bio              : "PhD student in Mathematics, Yale University"
   location         : "New Haven, CT"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "lam _dot_ pham _AT_ yale _dot_ edu"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "lam.pham@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "www.lamlaurentpham.com"
+  uri              : #"www.lamlaurentpham.com"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -101,13 +101,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
