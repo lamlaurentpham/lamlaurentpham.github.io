@@ -13,6 +13,7 @@ redirect_from:
 
 Education
 ======
+
 |Year|Institution|Degree|   
 |---|---|---|  
 |2019 (expected)|Yale University|Ph.D. in Mathematics|  
