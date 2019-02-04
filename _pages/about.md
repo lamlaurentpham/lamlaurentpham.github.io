@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Mathematics at Yale University, advised by Professors Gregory Margulis (Yale University) and Emmanuel Breuillard (University of Cambridge).
+I am currently a PhD student in Mathematics at Yale University, advised by Professors Gregory Margulis (Yale University) and Emmanuel Breuillard (University of Cambridge). I expect to graduate in Spring 2019.
 
 I am interested in Lie groups, their discrete subgroups, and arithmetic groups ([details](https://lamlaurentpham.github.io/publications/)).
 
 Previously, I completed an M.S. in Computational & Mathematical Engineering at Stanford University, and an M.S. in Aerospace Engineering at Ecole Centrale Paris, where I studied [Plasma Assisted Combustion](https://ieeexplore.ieee.org/document/6012535).
-
-I expect to graduate in Spring 2019.
 
 ## Invited Talks
 
