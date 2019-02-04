@@ -14,12 +14,6 @@ I am primarily interested in Lie groups, their discrete subgroups, and arithmeti
 
 Previously, I completed an M.S. in Computational & Mathematical Engineering at Stanford University, and an M.S. in Aerospace Engineering at Ecole Centrale Paris, where I studied [Plasma Assisted Combustion](https://ieeexplore.ieee.org/document/6012535).
 
-## Invited Talks
-
-- University of Cambridge, Discrete analysis seminar, 11/23/2018
-- Rutgers University, Number theory seminar, 10/30/2018
-- CUNY Graduate Center, New York group theory seminar, 10/26/2018
-
 ## Papers
 
 | Year | Status | Title | Link |
@@ -36,6 +30,12 @@ I enjoy translating and giving a new breath of life to old French mathematics cl
 |---|---|---|---|
 |_Forthcoming_|1969|Armand Borel|Introduction aux groupes arithmétiques|
 |_In Progress_|1965|Armand Borel & Jacques Tits|Groupes réductifs|
+
+## Invited Talks
+
+- University of Cambridge, Discrete analysis seminar, 11/23/2018
+- Rutgers University, Number theory seminar, 10/30/2018
+- CUNY Graduate Center, New York group theory seminar, 10/26/2018
 
 ## Upcoming (tentative) travel
 
