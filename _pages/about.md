@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a PhD student in Mathematics at Yale University, advised by Professors Gregory Margulis (Yale University) and Emmanuel Breuillard (University of Cambridge).
-I am interested in Lie groups, their discrete subgroups, and arithmetic groups ([click here](https://lamlaurentpham.github.io/publications/)) for more details).
+I am interested in Lie groups, their discrete subgroups, and arithmetic groups ([details](https://lamlaurentpham.github.io/publications/)).
 Previously, I completed an M.S. in Computational & Mathematical Engineering at Stanford University, and an M.S. in Aerospace Engineering at Ecole Centrale Paris, where I studied [Plasma Assisted Combustion](https://ieeexplore.ieee.org/document/6012535).
 I expect to graduate in Spring 2019.
 
@@ -19,22 +19,22 @@ I expect to graduate in Spring 2019.
 - Rutgers University, Number theory seminar, 10/30/2018
 - CUNY Graduate Center, New York group theory seminar, 10/26/2018
 
-## Papers in reverse chronological order
+## Papers
 
-| No. | Status | Year | Title | Link |
-|---|---|---|---|---|
-|2|_In preparation_|2019|Locally commutative free groups acting on the plane|[Link](https://www.dropbox.com/s/1wopzdriys3plgg/2018-December-uniform-affine.pdf?dl=0)|
-|1|_Preprint_|2018|Uniform Kazhdan constants and paradoxes of the plane| |
-|0|Ph.D. Thesis|2019|A strong Tits alternative for the affine group of the plane| |
+| Year | Status | Title | Link |
+|---|---|---|---|
+|2019|Ph.D. Thesis|2019|A strong Tits alternative for the affine group of the plane| |
+|2019|_In preparation_|Locally commutative free groups acting on the plane|[Link](https://www.dropbox.com/s/1wopzdriys3plgg/2018-December-uniform-affine.pdf?dl=0)|
+|2018|_Preprint_|Uniform Kazhdan constants and paradoxes of the plane| |
 
-### Books and translations
+## Books and translations
 
-I enjoy translating and giving a new breath of life to old French mathematics classics by translating them into english. If you would like to work together on an old classic, please let me know!
+I enjoy translating and giving a new breath of life to old French mathematics classics by translating them into English. If you would like to work together on an old classic, please let me know!
 
-| No. | Status | Year | Author(s) | Title |
-|---|---|---|---|---|
-|1|_Forthcoming_|1969|Armand Borel|Introduction aux groupes arithmétiques|
-|2|_In Progress_|1965|Armand Borel & Jacques Tits|Groupes réductifs|
+| Status | Year | Author(s) | Title |
+|---|---|---|---|
+|_Forthcoming_|1969|Armand Borel|Introduction aux groupes arithmétiques|
+|_In Progress_|1965|Armand Borel & Jacques Tits|Groupes réductifs|
 
 ## Upcoming (tentative) travel
 
