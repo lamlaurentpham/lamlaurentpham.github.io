@@ -27,8 +27,8 @@ I expect to graduate in Spring 2019.
 | Year | Status | Title | Link |
 |---|---|---|---|
 |2019|Ph.D. Thesis|A strong Tits alternative for the affine group of the plane| |
-|2019|_In preparation_|Locally commutative free groups acting on the plane|[Link](https://www.dropbox.com/s/1wopzdriys3plgg/2018-December-uniform-affine.pdf?dl=0)|
-|2018|_Preprint_|Uniform Kazhdan constants and paradoxes of the plane| |
+|2019|_In preparation_|Locally commutative free groups acting on the plane||
+|2018|_Preprint_|Uniform Kazhdan constants and paradoxes of the plane|[Link](https://www.dropbox.com/s/1wopzdriys3plgg/2018-December-uniform-affine.pdf?dl=0)|
 
 ## Books and translations
 
