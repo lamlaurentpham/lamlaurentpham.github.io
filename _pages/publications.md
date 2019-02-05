@@ -9,7 +9,7 @@ author_profile: true
 <details>
   <summary>Abstract</summary>
   
-We prove that there exists $N\in\mathbb{N}^*$ such that for any finite symmetric subset $S\subset \mathrm{SL}(2,\bar{\mathbb{Q}})\ltimes\mathbb{Q}{}^2$ generating a non-virtually solvable subgroup, there exist two words $a$ and $b$ in the generators of $S$ of length less than $N$, generating a non-abelian free group $\mathrm{F}_2$ such that the action $\langle a,b\rangle=\mathrm{F}_2\curvearrowright \bar{\mathbb{Q}}{}^2$ is locally commutative.
+We prove that there exists $N\in\mathbb{N}^*$ such that for any finite symmetric subset $S\subset \mathrm{SL}(2,\bar{\mathbb{Q}})\ltimes\bar{\mathbb{Q}}{}^2$ generating a non-virtually solvable subgroup, there exist two words $a$ and $b$ in the generators of $S$ of length less than $N$, generating a non-abelian free group $\mathrm{F}_2$ such that the action $\langle a,b\rangle=\mathrm{F}_2\curvearrowright \bar{\mathbb{Q}}{}^2$ is locally commutative.
 </details>
 
 
