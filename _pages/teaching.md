@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## Yale University
+
 |Year|Period|Course Number|Course Title|Position|
 |---|---|---|---|---|
 |2018|Fall|Math 120|Calculus of Functions of Several Variables|Instructor|
@@ -20,6 +21,7 @@ redirect_from:
 |2016|Spring|DRP|Expansion in ﬁnite simple groups of Lie type|Graduate Mentor|
 
 ## Stanford University
+
 |Year|Period|Course Number|Course Title|Position|
 |---|---|---|---|---|
 |2012|Spring|CME 206|Numerical Methods (Graduate)|Teaching Assistant|
