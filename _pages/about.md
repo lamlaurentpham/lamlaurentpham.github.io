@@ -47,3 +47,8 @@ I enjoy translating and giving a new breath of life to old French mathematics cl
 |2019| May 19-24|Equidistribution, Invariant Measures and Applications: A tribute to the Legacy of Marina Ratner|The Hebrew University of Jerusalem (Israel)|
 |2019|Mar 25-29|Number Theory and Dynamics Conference|CMS, University of Cambridge (UK)|
 |2019|Feb 17-21|Super Strong Approximation in Groups|The Hebrew University of Jerusalem (Israel)|
+
+
+## Test
+
+$h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; example (2): $a^2 + b^2 = c^2$ ; example (3): $\sum_{i=1}^m y^{(i)}$
