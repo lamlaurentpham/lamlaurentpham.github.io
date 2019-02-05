@@ -9,7 +9,7 @@ redirect_from:
 
 ## Yale University
 
-|Year|Period|Course Number|Course Title|Position|
+| Year | Period | Course Number | Course Title | Position |
 |---|---|---|---|---|
 |2018|Fall|Math 120|Calculus of Functions of Several Variables|Instructor|
 |2018|Summer|Math 115|Calculus of Functions of One Variable|Lead Instructor|
