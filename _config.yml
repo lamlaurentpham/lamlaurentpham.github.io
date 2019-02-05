@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lam Pham's Math Page"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Lam Pham"
 description              : &description "PhD Student in Mathematics at Yale University"
