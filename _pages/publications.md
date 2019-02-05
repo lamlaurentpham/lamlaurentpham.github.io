@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-2. Locally Commutative Affine Actions on the Plane (2019), _Preprint_
+(2) Locally Commutative Affine Actions on the Plane (2019), _Preprint_
 <details>
   <summary>Abstract</summary>
   
@@ -13,7 +13,7 @@ We prove that there exists $N\in\mathbb{N}^*$ such that for any finite symmetric
 </details>
 
 
-1. Uniform Kazhdan constants and paradoxes of the plane (2018), _Preprint_
+(1) Uniform Kazhdan constants and paradoxes of the plane (2018), _Preprint_
 <details>
   <summary>Abstract</summary>
   
