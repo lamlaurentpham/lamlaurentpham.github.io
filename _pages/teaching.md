@@ -15,7 +15,7 @@ redirect_from:
 |2018|Summer|Math 115|Calculus of Functions of One Variable|Lead Instructor|
 |2017|Fall|Math 115|Calculus of Functions of One Variable|Instructor|
 |2016|Fall|Math 115|Calculus of Functions of One Variable|Instructor|
-|2016|Summer|Math 115|Calculus of Functions of One Variable|Instructor|
+|2016|Summer|Math 115|Calculus of Functions of One Variable|Lead Instructor|
 |2015|Spring|Math 231|Vector Calculus and Linear Algebra|Teaching Assistant|
 |2016|Spring|Directed Reading Program|Lie groups and Lie algebras|Graduate Mentor, with Thomas Hille|
 |2016|Spring|Directed Reading Program|Expansion in ﬁnite simple groups of Lie type|Graduate Mentor|
