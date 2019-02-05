@@ -14,6 +14,7 @@ author_profile: true
 We prove that there exists $N\in\mathbb{N}^*$ such that for any finite symmetric subset $S\subset \mathrm{SL}(2,\bar{\mathbb{Q}})\ltimes\mathbb{Q}{}^2$ generating a non-virtually solvable subgroup, there exist two words $a$ and $b$ in the generators of $S$ of length less than $N$, generating a non-abelian free group $\mathrm{F}_2$ such that the action $\la a,b\ra=\mathrm{F}_2\curvearrowright \bar{\mathbb{Q}}{}^2$ is locally commutative.
 </details>
 
+
 1. Uniform Kazhdan constants and paradoxes of the plane (2018), _Preprint_
 <details>
   <summary>Abstract</summary>
