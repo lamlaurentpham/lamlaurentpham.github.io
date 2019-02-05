@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-%# Papers in reverse chronological order
-
-2.  Locally Commutative Affine Actions on the Plane (2019), _Preprint_
+2. Locally Commutative Affine Actions on the Plane (2019), _Preprint_
 <details>
   <summary>Abstract</summary>
   
