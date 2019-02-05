@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Mathematics at Yale University, advised by Professors Gregory Margulis (Yale University) and Emmanuel Breuillard (University of Cambridge). I expect to graduate in Spring 2019.
+I am currently a PhD student in Mathematics at [Yale University](https://math.yale.edu/), advised by Professors Gregory Margulis (Yale University) and Emmanuel Breuillard (University of Cambridge). I expect to graduate in Spring 2019.
 
 I am primarily interested in Lie groups, their discrete subgroups, and arithmetic groups.
 
-Previously, I completed an M.S. in Computational & Mathematical Engineering at Stanford University, and an M.S. in Aerospace Engineering and Diplôme d'Ingénieur at Ecole Centrale Paris, where I studied [Plasma Assisted Combustion](https://ieeexplore.ieee.org/document/6012535).
+Previously, I completed an M.S. in Computational & Mathematical Engineering at Stanford University (with a short stint in the Mechanical Engineering Department). Even earlier, I received an M.S. in Aerospace Engineering and a Diplôme d'Ingénieur at Ecole Centrale Paris, where I studied [Plasma Assisted Combustion](https://ieeexplore.ieee.org/document/6012535).
 
 ## Papers
 
