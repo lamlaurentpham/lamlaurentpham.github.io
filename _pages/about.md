@@ -35,6 +35,7 @@ I enjoy translating and giving a new breath of life to old French mathematics cl
 
 |Year|Date|Location|Seminar|
 |---|---|---|---|
+|2019|Apr 8|Yale University|Group actions and dynamics seminar|
 |2018|Nov 23|University of Cambridge|Discrete analysis seminar|
 |2018|Oct 30|Rutgers University|Number theory seminar|
 |2018|Oct 26|CUNY Graduate center|New York group theory seminar|
