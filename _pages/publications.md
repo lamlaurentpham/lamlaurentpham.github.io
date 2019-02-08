@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+-----
+
 (2) Locally Commutative Affine Actions on the Plane (2019), _In preparation_
 <details>
   <summary>Abstract</summary>
@@ -16,6 +18,7 @@ We prove a refinement of the strong Tits alternative in the case of affine trans
 (1) Uniform Kazhdan constants and paradoxes of the plane (2018), _Preprint_
 <details>
   <summary>Abstract</summary>
-  
 Let $G=\mathrm{SL}(2,\mathbb{Z})\ltimes\mathbb{Z}^2$ and $H=\mathrm{SL}(2,\mathbb{Z})$. We prove that the action $G\curvearrowright\mathbb{R}^2$ is uniformly non-amenable and that the quasi-regular representation of $G$ on $\ell^2(G/H)$ has a uniform spectral gap. Both results are a consequence of a uniform quantitative form of ping-pong for affine transformations, which we establish here.
 </details>
+
+-----
