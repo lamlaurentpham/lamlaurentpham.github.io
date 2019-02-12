@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Mathematics at [Yale University](https://math.yale.edu/), advised by Professors Gregory Margulis (Yale University) and Emmanuel Breuillard (University of Cambridge). I expect to graduate in Spring 2019.
+I am currently a PhD student in Mathematics at [Yale University](https://math.yale.edu/), advised by Professors Gregory Margulis (Yale University) and Emmanuel Breuillard (University of Cambridge).
+
+I will be a Postdoctoral Researcher at [Brandeis University](http://www.brandeis.edu/mathematics/) starting July 2019.
 
 I am primarily interested in Lie groups, their discrete subgroups, and arithmetic groups.
 
