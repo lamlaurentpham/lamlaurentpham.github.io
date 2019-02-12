@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF CV](https://www.dropbox.com/s/aopprx248hdy3di/CV-December-2018.pdf?dl=0)
+[PDF CV](https://www.dropbox.com/s/l8aaca1hshzox87/math_cv.pdf?dl=0)
 
 Education
 ======
