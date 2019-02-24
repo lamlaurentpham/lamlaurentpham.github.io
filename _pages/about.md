@@ -22,7 +22,7 @@ Previously, I completed an M.S. in Computational & Mathematical Engineering at S
 |---|---|---|---|
 |2019|_In preparation_|A strong Tits alternative for the affine group of the plane (Ph.D. Thesis)| |
 |2019|_In preparation_|Locally commutative free groups acting on the plane||
-|2018|_Preprint_|Uniform Kazhdan constants and paradoxes of the plane|[Link](https://www.dropbox.com/s/f602lqosxdx5clc/Uniform-Kazhdan-February-2019.pdf?dl=0)|
+|2018|_Preprint_|Uniform Kazhdan constants and paradoxes of the plane|[Link](https://www.dropbox.com/s/4rgrckaz0qsypln/Uniform-Kazhdan-February-2019.pdf?dl=0)|
 
 ## Books and translations
 
