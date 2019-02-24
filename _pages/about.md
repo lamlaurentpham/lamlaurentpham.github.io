@@ -44,8 +44,9 @@ I enjoy translating and giving a new breath of life to old French mathematics cl
 
 ## Upcoming (tentative) travel
 
-|Year|Dates|Location|Conference Title|
+|Year|Dates|Conference Titlte|Location|
 |---|---|---|---|
+|2019|June 10-21|Random and arithmetic structures in topology (MSRI Summer school)|MSRI, Berkeley (USA)|
 |2019|May 27-31|Dynamics of Group Actions, une conférence en l’honneur des 60 ans d'Yves Benoist|Cretaro (Italy)|
 |2019| May 19-24|Equidistribution, Invariant Measures and Applications: A tribute to the Legacy of Marina Ratner|The Hebrew University of Jerusalem (Israel)|
 |2019|Mar 25-29|Number Theory and Dynamics Conference|CMS, University of Cambridge (UK)|
