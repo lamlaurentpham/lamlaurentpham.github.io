@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF CV](https://github.com/lamlaurentpham/repo/files/math_cv.pdf)
+[PDF CV](https://github.com/lamlaurentpham/files/math_cv.pdf)
 
 Education
 ======
