@@ -1,13 +1,12 @@
 ---
-title: "Math 39A (Fall 2019)"
+title: "Math 39A (Fall 2019) - Introduction to combinatorics"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2019-F-MATH39A
 venue: "Brandeis University"
-date: 2019-09-01
+date: Fall 2019
+location: "TBA"
 ---
-
-# Math 39A - Introduction to Combinatorics
 
 ### Course Information
 
@@ -48,31 +47,41 @@ I will adjust the weight of the midterm to 25% and the final exam to 55%.
 enumeration, counting, correspondences, recursion and differential equations, induction,
 algebraic structures, networks, algorithms, spectral graph theory
 
+### Homeworks
+
+* Homework #1, due xx/xx/2019
+* Homework #2, due xx/xx/2019
+* Homework #3, due xx/xx/2019
+* Homework #4, due xx/xx/2019
+* Homework #5, due xx/xx/2019
+
 ### Schedule and Notes
 
-* Lecture 01 (August 28). 
-* Lecture 02 (September 04). 
-* Lecture 03 (September 09). 
-* Lecture 04 (September 11). 
-* Lecture 05 (September 16). 
-* Lecture 06 (September 18). 
-* Lecture 07 (September 23). 
-* Lecture 08 (September 25). 
-* Lecture 09 (October 02). 
-* Lecture 10 (October 03). 
-* Lecture 11 (October 07). 
-* Lecture 12 (October 15). 
-* Lecture 13 (October 16). 
-* Lecture 14 (October 23). 
-* Lecture 15 (October 28). 
-* Lecture 16 (October 30). 
-* Lecture 17 (November 04). 
-* Lecture 18 (November 06). 
-* Lecture 19 (November 11). 
-* Lecture 20 (November 13). 
-* Lecture 21 (November 18). 
-* Lecture 22 (November 20). 
-* Lecture 23 (November 25). 
-* Lecture 24 (December 02). 
-* Lecture 25 (December 04). 
-* Lecture 26 (December 09). 
+Here, I will try to post summaries and notes for the lectures
+
+* #01 (Aug. 28). 
+* #02 (Sep. 04). 
+* #03 (Sep. 09). 
+* #04 (Sep. 11). 
+* #05 (Sep. 16). 
+* #06 (Sep. 18). 
+* #07 (Sep. 23). 
+* #08 (Sep. 25). 
+* #09 (Oct. 02). 
+* #10 (Oct. 03). 
+* #11 (Oct. 07). 
+* #12 (Oct. 15). 
+* #13 (Oct. 16). 
+* #14 (Oct. 23). 
+* #15 (Oct. 28). 
+* #16 (Oct. 30). 
+* #17 (Nov. 04). 
+* #18 (Nov. 06). 
+* #19 (Nov. 11). 
+* #20 (Nov. 13). 
+* #21 (Nov. 18). 
+* #22 (Nov. 20). 
+* #23 (Nov. 25). 
+* #24 (Dec. 02). 
+* #25 (Dec. 04). 
+* #26 (Dec. 09). 
