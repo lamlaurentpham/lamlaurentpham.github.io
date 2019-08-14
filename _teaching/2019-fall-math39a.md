@@ -2,7 +2,7 @@
 title: "Math 39A (Fall 2019)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-MATH39A
+permalink: /teaching/2019-F-MATH39A
 venue: "Brandeis University"
 date: 2019-09-01
 ---
