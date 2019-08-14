@@ -24,7 +24,7 @@ Previously, I completed an M.S. in Computational & Mathematical Engineering at S
 
 ## Current Teaching
 
-Fall 2019, I am teaching Introduction to Combinatorics (Math 39A). Click [here](https://lamlaurentpham.github.io/teaching/2019F-MATH39A) for the course webpage.
+Fall 2019, I am teaching Introduction to Combinatorics (Math 39A). Click [here](/teaching/2019-F-MATH39A) for the course webpage.
 
 ## Books and Translations
 
