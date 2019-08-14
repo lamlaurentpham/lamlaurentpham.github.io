@@ -49,39 +49,41 @@ algebraic structures, networks, algorithms, spectral graph theory
 
 ### Homeworks
 
-* Homework #1, due xx/xx/2019
-* Homework #2, due xx/xx/2019
-* Homework #3, due xx/xx/2019
-* Homework #4, due xx/xx/2019
-* Homework #5, due xx/xx/2019
+* Homework 1, due xx/xx/2019
+* Homework 2, due xx/xx/2019
+* Homework 3, due xx/xx/2019
+* Homework 4, due xx/xx/2019
+* Homework 5, due xx/xx/2019
 
 ### Schedule and Notes
 
 Here, I will try to post summaries and notes for the lectures
 
-* #01 (Aug. 28). 
-* #02 (Sep. 04). 
-* #03 (Sep. 09). 
-* #04 (Sep. 11). 
-* #05 (Sep. 16). 
-* #06 (Sep. 18). 
-* #07 (Sep. 23). 
-* #08 (Sep. 25). 
-* #09 (Oct. 02). 
-* #10 (Oct. 03). 
-* #11 (Oct. 07). 
-* #12 (Oct. 15). 
-* #13 (Oct. 16). 
-* #14 (Oct. 23). 
-* #15 (Oct. 28). 
-* #16 (Oct. 30). 
-* #17 (Nov. 04). 
-* #18 (Nov. 06). 
-* #19 (Nov. 11). 
-* #20 (Nov. 13). 
-* #21 (Nov. 18). 
-* #22 (Nov. 20). 
-* #23 (Nov. 25). 
-* #24 (Dec. 02). 
-* #25 (Dec. 04). 
-* #26 (Dec. 09). 
+
+* Lecture 01 (Aug. 28). 
+* Lecture 02 (Sep. 04). 
+* Lecture 03 (Sep. 09). 
+* Lecture 04 (Sep. 11). 
+* Lecture 05 (Sep. 16). 
+* Lecture 06 (Sep. 18). 
+* Lecture 07 (Sep. 23). 
+* Lecture 08 (Sep. 25). 
+* Lecture 09 (Oct. 02). 
+* Lecture 10 (Oct. 03). 
+* Lecture 11 (Oct. 07). 
+* Lecture 12 (Oct. 15). 
+* Lecture 13 (Oct. 16). 
+* Lecture 14 (Oct. 23). 
+* Lecture 15 (Oct. 28). 
+* Lecture 16 (Oct. 30). 
+* Lecture 17 (Nov. 04). 
+* Lecture 18 (Nov. 06). 
+* Lecture 19 (Nov. 11). 
+* Lecture 20 (Nov. 13). 
+* Lecture 21 (Nov. 18). 
+* Lecture 22 (Nov. 20). 
+* Lecture 23 (Nov. 25). 
+* Lecture 24 (Dec. 02). 
+* Lecture 25 (Dec. 04). 
+* Lecture 26 (Dec. 09). 
+
