@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2019-F-MATH39A
 venue: "Brandeis University"
-date: Fall 2019
+date: "Fall 2019"
 location: "TBA"
 ---
 
