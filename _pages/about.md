@@ -40,7 +40,7 @@ I enjoy translating and giving a new breath of life to old French mathematics cl
 |Year|Date|Location|Seminar|
 |---|---|---|---|
 
----
+<!---
 
 |2019|Apr 8|Yale University|Group actions and dynamics seminar|
 |2019|Apr 3|Wesleyan University|Topology et al. seminar|
@@ -48,7 +48,7 @@ I enjoy translating and giving a new breath of life to old French mathematics cl
 |2018|Oct 30|Rutgers University|Number theory seminar|
 |2018|Oct 26|CUNY Graduate center|New York group theory seminar|
 
----
+--->
 
 ## Upcoming (tentative) travel
 
@@ -58,7 +58,7 @@ I enjoy translating and giving a new breath of life to old French mathematics cl
 |2019|Nov 10-21|Illustrating Dynamics and Probability|ICERM (USA)|
 |2019|Oct 21-25|Illustrating Number Theory and Algebra|ICERM (USA)|
 
----
+<!---
 
 |2019|Jun 10-21|Random and arithmetic structures in topology|Berkeley (USA)|
 |2019|May 27-31|Dynamics of Group Actions, une conférence en l’honneur des 60 ans d'Yves Benoist|Cretaro (Italy)|
@@ -66,4 +66,4 @@ I enjoy translating and giving a new breath of life to old French mathematics cl
 |2019|Mar 25-29|Number Theory and Dynamics Conference|Cambridge (UK)|
 |2019|Feb 17-21|Super Strong Approximation in Groups|Jerusalem (Israel)|
 
----
+--->
