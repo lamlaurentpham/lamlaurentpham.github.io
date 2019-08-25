@@ -18,7 +18,7 @@ Instructor: Lam Pham
 
 ### Lectures
 
-* Location: TBA
+* Location: Goldsmith 226
 * Time: Mondays, Wednesdays, 5-6:20pm
 
 ### Reference text
