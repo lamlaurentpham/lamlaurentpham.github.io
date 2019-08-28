@@ -53,7 +53,7 @@ algebraic structures, networks, algorithms, spectral graph theory
 
 ### Schedule and Notes
 
-* Lecture 01 (Aug. 28). 
+* Lecture 01 (Aug. 28). We defined graphs, subgraphs, morphisms, isomorphisms, the complement of a graph, and saw examples. We proved that the sum of all the degrees in an undirected graph equals twice the number of edges, and that the number of vertices of odd degrees is even. We defined paths, walks, trails, circuits and cycles, and proved that in any graph with minimal degree $d$ at least 2, there exists a cycle of length $\geq d+1$.
 
 <!---
 * Lecture 02 (Sep. 04). 
