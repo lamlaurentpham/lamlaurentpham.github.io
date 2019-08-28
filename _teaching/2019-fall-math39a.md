@@ -53,7 +53,7 @@ algebraic structures, networks, algorithms, spectral graph theory
 
 ### Schedule and Notes
 
-* Lecture 01 (Aug. 28). We defined graphs, subgraphs, morphisms, isomorphisms, the complement of a graph, and saw examples. We proved that $\sum_{x\in V(G)}\mathrm{deg}(x)=2\lvert E(G)\rvert$, and that $\lvert\{x\in V(G)\,\mid\, \mathrm{deg}(x)~\mathrm{is}~\mathrm{odd}\}\rvert$ is even. We defined paths, walks, trails, circuits and cycles, and proved that in any graph with minimal degree $\delta(G)\geq 2$, there exists a cycle of length $\geq \delta(G)+1$.
+* Lecture 01 (Aug. 28). We defined graphs, subgraphs, morphisms, isomorphisms, the complement of a graph, and saw examples. We proved that $\sum_{x\in V(G)}\mathrm{deg}(x)=2\lvert E(G)\rvert$, and that $\lvert\lbrace x\in V(G)\,\mid\, \mathrm{deg}(x)~\mathrm{is}~\mathrm{odd}\rbrace\rvert$ is even. We defined paths, walks, trails, circuits and cycles, and proved that in any graph with minimal degree $\delta(G)\geq 2$, there exists a cycle of length $\geq \delta(G)+1$.
 
 <!---
 * Lecture 02 (Sep. 04). 
