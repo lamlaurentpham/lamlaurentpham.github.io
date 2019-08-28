@@ -6,6 +6,7 @@ permalink: /teaching/2019-F-MATH39A
 venue: "Brandeis University"
 date: 09/01/2019
 location: "TBA"
+author_profile: false
 ---
 
 ### Course Information
