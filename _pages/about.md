@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lam Laurent Pham"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since July 2019, I am an Instructor at [Brandeis University](http://www.brandeis.edu/mathematics/).
+Since July 2019, I am an Instructor at [Brandeis University](http://www.brandeis.edu/mathematics/). I also co-organize with (Dmitry Kleinbock)[http://people.brandeis.edu/~kleinboc/] the Dynamics and Number Theory seminar. Click [here](https://lamlaurentpham.github.io/seminar/2019-2020/) for the seminar webpage.
 
 I received my Ph.D. in Mathematics from [Yale University](https://math.yale.edu/) in 2019. I am fortunate to have had Professors Gregory Margulis (Yale University) and Emmanuel Breuillard (University of Cambridge) as advisers.
 
@@ -54,9 +54,11 @@ I enjoy translating and giving a new breath of life to old French mathematics cl
 
 |Year|Dates|Conference Title|Location|
 |---|---|---|---|
-|2019|Dec 8-13|Discrete Subgroups of Lie Groups|Banff (Canada)|
-|2019|Nov 10-21|Illustrating Dynamics and Probability|ICERM (USA)|
 |2019|Oct 21-25|Illustrating Number Theory and Algebra|ICERM (USA)|
+|2019|Nov 10-21|Illustrating Dynamics and Probability|ICERM (USA)|
+|2019|Dec 8-13|Discrete Subgroups of Lie Groups|Banff (Canada)|
+
+
 
 <!---
 
