@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since July 2019, I am an Instructor at [Brandeis University](http://www.brandeis.edu/mathematics/). I also co-organize with (Dmitry Kleinbock)[http://people.brandeis.edu/~kleinboc/] the Dynamics and Number Theory seminar. Click [here](https://lamlaurentpham.github.io/seminar/2019-2020/) for the seminar webpage.
+Since July 2019, I am an Instructor at [Brandeis University](http://www.brandeis.edu/mathematics/). I also co-organize with [Dmitry Kleinbock](http://people.brandeis.edu/~kleinboc/) the Dynamics and Number Theory seminar. Click [here](https://lamlaurentpham.github.io/seminar/2019-2020/) for the seminar webpage.
 
 I received my Ph.D. in Mathematics from [Yale University](https://math.yale.edu/) in 2019. I am fortunate to have had Professors Gregory Margulis (Yale University) and Emmanuel Breuillard (University of Cambridge) as advisers.
 
