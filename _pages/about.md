@@ -20,7 +20,7 @@ Previously, I completed an M.S. in Computational & Mathematical Engineering at S
 
 | Year | Status | Title | Link | 
 |---|---|---|---|
-|2019|_Preprint_|Uniform Kazhdan Constants and Paradoxes of the Affine Plane|[arXiv](https://arxiv.org/abs/1904.02604)|
+|2019|_Submitted_|Uniform Kazhdan Constants and Paradoxes of the Affine Plane|[arXiv](https://arxiv.org/abs/1904.02604)|
 
 ## Current Teaching
 
