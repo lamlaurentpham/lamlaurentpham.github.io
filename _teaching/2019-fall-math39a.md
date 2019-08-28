@@ -11,7 +11,7 @@ author_profile: false
 
 ### Course Information
 
-Instructor: Lam Pham
+* Instructor: Lam Pham
 * Office: Goldsmith 312
 * E-mail address: lampham@brandeis.edu
 * Office hours (tentative): Mondays (12-1pm), Wednesdays (7-8.30pm), and Thursday (2-3.30pm) in Goldsmith 312
@@ -31,7 +31,6 @@ Linear algebra and calculus.
 
 ### Grading scheme
 
-The grade will consist of the following:
 * Homeworks: 20%;
 * Midterm exam: 35%;
 * Final exam: 45%.
@@ -50,18 +49,13 @@ algebraic structures, networks, algorithms, spectral graph theory
 
 ### Homeworks
 
-* Homework 1, due xx/xx/2019
-* Homework 2, due xx/xx/2019
-* Homework 3, due xx/xx/2019
-* Homework 4, due xx/xx/2019
-* Homework 5, due xx/xx/2019
+* Homework 1, due 09/09/2019
 
 ### Schedule and Notes
 
-Here, I will try to post summaries and notes for the lectures
-
-
 * Lecture 01 (Aug. 28). 
+
+<!---
 * Lecture 02 (Sep. 04). 
 * Lecture 03 (Sep. 09). 
 * Lecture 04 (Sep. 11). 
@@ -87,4 +81,4 @@ Here, I will try to post summaries and notes for the lectures
 * Lecture 24 (Dec. 02). 
 * Lecture 25 (Dec. 04). 
 * Lecture 26 (Dec. 09). 
-
+--->
