@@ -5,7 +5,7 @@ type: "Undergraduate"
 permalink: /teaching/2019-F-MATH39A
 venue: "Brandeis University"
 date: 09/01/2019
-location: "TBA"
+location: "Goldsmith 226"
 author_profile: false
 ---
 
@@ -14,8 +14,8 @@ author_profile: false
 * Instructor: Lam Pham
 * Office: Goldsmith 312
 * E-mail address: lampham@brandeis.edu
-* Office hours (tentative): Mondays (12-1pm), Wednesdays (7-8.30pm), and Thursday (2-3.30pm) in Goldsmith 312
-* Course assistant: Anurag Rao (anrg@brandeis.edu)
+* Office hours (tentative): Mondays (12-1pm), Wednesdays (6.30-8.30pm), and Thursday (1-2pm) in Goldsmith 312
+* Grader/TA: Anurag Rao (anrg@brandeis.edu)
 
 ### Lectures
 
