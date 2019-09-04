@@ -14,8 +14,9 @@ author_profile: false
 * Instructor: Lam Pham
 * Office: Goldsmith 312
 * E-mail address: lampham@brandeis.edu
-* Office hours (tentative): Mondays (12-1pm), Wednesdays (6.30-8.30pm), and Thursday (1-2pm) in Goldsmith 312
-* Grader/TA: Anurag Rao (anrg@brandeis.edu)
+* Office hours (current): Mondays (12-1pm), Wednesdays (6.30-7.30pm), and Thursday (1-2pm) in Goldsmith 312
+* Grader: Anurag Rao (anrg@brandeis.edu)
+* Grader's office hours: Tuesdays (4-5pm) - You may ask questions about homework grades here
 
 ### Lectures
 
