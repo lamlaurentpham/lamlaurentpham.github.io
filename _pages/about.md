@@ -35,12 +35,13 @@ I enjoy translating and giving a new breath of life to old French mathematics cl
 |1969|_Forthcoming_|Armand Borel|Introduction aux groupes arithmétiques|
 |1965|_In Progress_|Armand Borel & Jacques Tits|Groupes réductifs et compléments|
 
+<!---
 ## Upcoming Talks
 
 |Year|Date|Location|Seminar|
 |---|---|---|---|
 
-<!---
+
 
 |2019|Apr 8|Yale University|Group actions and dynamics seminar|
 |2019|Apr 3|Wesleyan University|Topology et al. seminar|
