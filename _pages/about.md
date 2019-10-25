@@ -12,9 +12,9 @@ Since July 2019, I am an Instructor at [Brandeis University](http://www.brandeis
 
 I received my Ph.D. in Mathematics from [Yale University](https://math.yale.edu/) in 2019. I am fortunate to have had Professors Gregory Margulis (Yale University) and Emmanuel Breuillard (University of Cambridge) as advisers.
 
-I am primarily interested in Lie groups, their discrete subgroups, and arithmetic groups; I enjoy learning about their connections to pretty much any other topic (click [here](https://lamlaurentpham.github.io/publications/) for more details).
+I am primarily interested in Lie groups, their discrete subgroups, algebraic groups, and arithmetic groups; I enjoy learning about their connections to pretty much any other topic (click [here](https://lamlaurentpham.github.io/publications/) for more details).
 
-Previously, I completed an M.S. in Computational & Mathematical Engineering at Stanford University (with a short stint in the Mechanical Engineering Department), focusing mostly on probability theory. Even earlier, I received an M.S. in Aerospace Engineering (with a focus on Plasma Physics) and a Diplôme d'Ingénieur at Ecole Centrale Paris, where I studied [Plasma Assisted Combustion](https://ieeexplore.ieee.org/document/6012535).
+Previously, I received an M.S. in Computational & Mathematical Engineering at Stanford University (with a short stint in the Mechanical Engineering Department), focusing mostly on probability theory. Even earlier, I received an M.S. in Aerospace Engineering (with a focus on Plasma Physics) and a Diplôme d'Ingénieur at Ecole Centrale Paris, where I studied [Plasma Assisted Combustion](https://ieeexplore.ieee.org/document/6012535).
 
 ## Recent Papers
 
@@ -28,12 +28,14 @@ Fall 2019, I am teaching Introduction to Combinatorics (Math 39A). Click [here](
 
 ## Books and Translations
 
-I enjoy translating and giving a new breath of life to old French mathematics classics by translating them into English. If you would like to work together on an old classic, please let me know!
+I enjoy translating and giving a new breath of life to old French mathematics classics by translating them into English. Click [here](https://lamlaurentpham.github.io/publications/) for more information.
 
 | Year | Status | Author(s) | Title |
 |---|---|---|---|
-|1969|_Forthcoming_|Armand Borel|Introduction aux groupes arithmétiques|
+|1969|Published by the American Mathematical Society, edited by [Dave Witte Morris](http://people.uleth.ca/~dave.morris/), _to appear_|[Armand Borel](https://en.wikipedia.org/wiki/Armand_Borel)|Introduction to Arithmetic Groups|
+<!---
 |1965|_In Progress_|Armand Borel & Jacques Tits|Groupes réductifs et compléments|
+--->
 
 <!---
 ## Upcoming Talks
