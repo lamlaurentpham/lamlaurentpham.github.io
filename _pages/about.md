@@ -30,12 +30,10 @@ Fall 2019, I am teaching Introduction to Combinatorics (Math 39A). Click [here](
 
 I enjoy translating and giving a new breath of life to old French mathematics classics by translating them into English. Click [here](https://lamlaurentpham.github.io/publications/) for more information.
 
-| Year | Status | Author(s) | Title |
-|---|---|---|---|
-|1969|Published by the American Mathematical Society, edited by [Dave Witte Morris](http://people.uleth.ca/~dave.morris/), _to appear_|[Armand Borel](https://en.wikipedia.org/wiki/Armand_Borel)|Introduction to Arithmetic Groups|
-<!---
-|1965|_In Progress_|Armand Borel & Jacques Tits|Groupes réductifs et compléments|
---->
+| Year | Status | Author(s) | Title | Link |
+|---|---|---|---|---|
+|1969|Published by the American Mathematical Society, edited by [Dave Witte Morris](http://people.uleth.ca/~dave.morris/) | [Armand Borel](https://en.wikipedia.org/wiki/Armand_Borel)|Introduction to Arithmetic Groups| https://bookstore.ams.org/ulect-73|
+
 
 <!---
 ## Upcoming Talks
@@ -57,14 +55,13 @@ I enjoy translating and giving a new breath of life to old French mathematics cl
 
 |Year|Dates|Conference Title|Location|
 |---|---|---|---|
-|2019|Oct 21-25|Illustrating Number Theory and Algebra|ICERM (USA)|
-|2019|Nov 10-21|Illustrating Dynamics and Probability|ICERM (USA)|
 |2019|Dec 8-13|Discrete Subgroups of Lie Groups|Banff (Canada)|
 
 
 
 <!---
-
+|2019|Oct 21-25|Illustrating Number Theory and Algebra|ICERM (USA)|
+|2019|Nov 10-21|Illustrating Dynamics and Probability|ICERM (USA)|
 |2019|Jun 10-21|Random and arithmetic structures in topology|Berkeley (USA)|
 |2019|May 27-31|Dynamics of Group Actions, une conférence en l’honneur des 60 ans d'Yves Benoist|Cretaro (Italy)|
 |2019|May 19-24|Equidistribution, Invariant Measures and Applications: A tribute to the Legacy of Marina Ratner|Jerusalem (Israel)|
