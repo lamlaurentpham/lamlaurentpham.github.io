@@ -32,7 +32,7 @@ I enjoy translating and giving a new breath of life to old French mathematics cl
 
 | Year | Status | Author(s) | Title | Link |
 |---|---|---|---|---|
-|1969|Published by the American Mathematical Society, edited by [Dave Witte Morris](http://people.uleth.ca/~dave.morris/) | [Armand Borel](https://en.wikipedia.org/wiki/Armand_Borel)|Introduction to Arithmetic Groups| https://bookstore.ams.org/ulect-73|
+|1969|Published by the American Mathematical Society, edited by [Dave Witte Morris](http://people.uleth.ca/~dave.morris/) | [Armand Borel](https://en.wikipedia.org/wiki/Armand_Borel)|Introduction to Arithmetic Groups| [AMS Bookstore](https://bookstore.ams.org/ulect-73)|
 
 
 <!---
