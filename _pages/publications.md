@@ -24,5 +24,5 @@ Let $G=\mathrm{SL}(2,\mathbb{Z})\ltimes\mathbb{Z}^2$ and $H=\mathrm{SL}(2,\mathb
   <summary>About</summary>
 From the American Mathematical Society: Fifty years after it made the transition from mimeographed lecture notes to a published book, Armand Borel's Introduction aux groupes arithmétiques continues to be very important for the theory of arithmetic groups. In particular, Chapter III of the book remains the standard reference for fundamental results on reduction theory, which is crucial in the study of discrete subgroups of Lie groups and the corresponding homogeneous spaces.
 
-The review of the original French version in Mathematical Reviews observes that “the style is concise and the proofs (in later sections) are often demanding of the reader.” To make the translation more approachable, numerous footnotes provide helpful comments._
+The review of the original French version in Mathematical Reviews observes that “the style is concise and the proofs (in later sections) are often demanding of the reader.” To make the translation more approachable, numerous footnotes provide helpful comments.
 </details>

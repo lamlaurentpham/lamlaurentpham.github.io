@@ -24,7 +24,7 @@ Previously, I received an M.S. in Computational & Mathematical Engineering at St
 
 ## Current Teaching
 
-Fall 2019, I am teaching Introduction to Combinatorics (Math 39A). Click [here](https://lamlaurentpham.github.io/teaching/2019-F-MATH39A) for the course webpage.
+In Spring 2020, I am teaching Math 110b (Introduction to Real Analysis, Part 2) and Math 224b (Lie Groups).
 
 ## Books and Translations
 
@@ -51,11 +51,11 @@ I enjoy translating and giving a new breath of life to old French mathematics cl
 
 --->
 
-## Upcoming (tentative) travel
+<!---## Upcoming (tentative) travel
 
 |Year|Dates|Conference Title|Location|
 |---|---|---|---|
-|2019|Dec 8-13|Discrete Subgroups of Lie Groups|Banff (Canada)|
+
 
 
 
