@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Since July 2019, I am an Instructor at [Brandeis University](http://www.brandeis.edu/mathematics/). With [Dmitry Kleinbock](http://people.brandeis.edu/~kleinboc/), I co-organize the Dynamics and Number Theory seminar. **It has temporarily been suspended due to the current coronavirus outbreak. Instead, click [here](https://lamlaurentpham.github.io/seminar/2020-online/) for the a list of related online resources (online talks, seminars and so forth).**
+Since July 2020, I am a postdoctoral fellow at the [Einstein Institute of Mathematics of the Hebrew University of Jerusalem](https://mathematics.huji.ac.il/), hosted by [Elon Lindenstrauss](http://www.ma.huji.ac.il/~elon/index.html), supported by a Zuckerman postdoctoral fellowship from September 2020. I am on leave from my [Brandeis University](http://www.brandeis.edu/mathematics/) where I am an Instructor of Mathematics since July 2019.
+<!---
+With [Dmitry Kleinbock](http://people.brandeis.edu/~kleinboc/), I co-organize the Dynamics and Number Theory seminar. **It has temporarily been suspended due to the current coronavirus outbreak. Instead, click [here](https://lamlaurentpham.github.io/seminar/2020-online/) for the a list of related online resources (online talks, seminars and so forth).**
+--->
 
 I received my Ph.D. in Mathematics from [Yale University](https://math.yale.edu/) in 2019. I am fortunate to have had Professors Gregory Margulis (Yale University) and Emmanuel Breuillard (University of Cambridge) as advisers.
 
@@ -18,13 +21,14 @@ Previously, I received an M.S. in Computational & Mathematical Engineering at St
 
 ## Recent Papers
 
-| Year | Status | Title | Link | 
-|---|---|---|---|
-|2019|_Transformation Groups (to appear)_|Uniform Kazhdan Constants and Paradoxes of the Affine Plane|[arXiv](https://arxiv.org/abs/1904.02604)|
+| Year | Co-Author | Status | Title | Link | 
+|---|---|---|---|---|
+|2019| |_Transformation Groups (to appear)_|Uniform Kazhdan Constants and Paradoxes of the Affine Plane|[arXiv](https://arxiv.org/abs/1904.02604)|
+|2020|François Thilmany|_Preprint_|Arithmetic Groups and the Lehmer Conjecture|[arXiv](https://arxiv.org/abs/2005.13726)|
 
+<!---
 ## Current Teaching
-
-In Spring 2020, I am teaching Math 110b (Introduction to Real Analysis, Part 2) and Math 224b (Lie Groups).
+--->
 
 ## Books and Translations
 
