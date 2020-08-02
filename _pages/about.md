@@ -21,10 +21,10 @@ Previously, I received an M.S. in Computational & Mathematical Engineering at St
 
 ## Recent Papers
 
-| Year | Co-Author | Status | Title | Link | 
+| Year | Status | Title | Link | Co-Author |
 |---|---|---|---|---|
-|2019| |_Transformation Groups (to appear)_|Uniform Kazhdan Constants and Paradoxes of the Affine Plane|[arXiv](https://arxiv.org/abs/1904.02604)|
-|2020|François Thilmany|_Preprint_|Arithmetic Groups and the Lehmer Conjecture|[arXiv](https://arxiv.org/abs/2005.13726)|
+|2019|Transformation Groups, _to appear_|Uniform Kazhdan Constants and Paradoxes of the Affine Plane|[arXiv](https://arxiv.org/abs/1904.02604)| |
+|2020|_Preprint_|Arithmetic Groups and the Lehmer Conjecture|[arXiv](https://arxiv.org/abs/2005.13726)|François Thilmany|
 
 <!---
 ## Current Teaching
