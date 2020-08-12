@@ -8,23 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Since July 2020, I am a postdoctoral fellow at the [Einstein Institute of Mathematics of the Hebrew University of Jerusalem](https://mathematics.huji.ac.il/), hosted by [Elon Lindenstrauss](http://www.ma.huji.ac.il/~elon/index.html), supported by a Zuckerman postdoctoral fellowship from September 2020. I am on leave from my [Brandeis University](http://www.brandeis.edu/mathematics/) where I am an Instructor of Mathematics since July 2019.
+Since July 2020, I am a postdoctoral fellow at the [Einstein Institute of Mathematics of the Hebrew University of Jerusalem](https://mathematics.huji.ac.il/), hosted by [Elon Lindenstrauss](http://www.ma.huji.ac.il/~elon/index.html), supported by a Zuckerman postdoctoral fellowship from September 2020. I am on leave from [Brandeis University](http://www.brandeis.edu/mathematics/) where I am an Instructor of Mathematics since July 2019.
 <!---
 With [Dmitry Kleinbock](http://people.brandeis.edu/~kleinboc/), I co-organize the Dynamics and Number Theory seminar. **It has temporarily been suspended due to the current coronavirus outbreak. Instead, click [here](https://lamlaurentpham.github.io/seminar/2020-online/) for the a list of related online resources (online talks, seminars and so forth).**
 --->
 
 I received my Ph.D. in Mathematics from [Yale University](https://math.yale.edu/) in 2019. I am fortunate to have had Professors Gregory Margulis (Yale University) and Emmanuel Breuillard (University of Cambridge) as advisers.
 
-I am primarily interested in Lie groups, their discrete subgroups, algebraic groups, and arithmetic groups; I enjoy learning about their connections to pretty much any other topic (click [here](https://lamlaurentpham.github.io/publications/) for more details).
+I am primarily interested in algebraic groups, arithmetic groups, and their generalizations. and representation theory I enjoy learning about their connections to pretty much any other topic (click [here](https://lamlaurentpham.github.io/publications/) for more details).
 
 Previously, I received an M.S. in Computational & Mathematical Engineering at Stanford University (with a short stint in the Mechanical Engineering Department), focusing mostly on probability theory. Even earlier, I received an M.S. in Aerospace Engineering (with a focus on Plasma Physics) and a Diplôme d'Ingénieur at Ecole Centrale Paris, where I studied [Plasma Assisted Combustion](https://ieeexplore.ieee.org/document/6012535).
 
 ## Recent Papers
 
-| Year | Status | Title | Link | Co-Author |
+| Year | Status | Title | Link(s) | Co-Author |
 |---|---|---|---|---|
-|2019|Transformation Groups, _to appear_|Uniform Kazhdan Constants and Paradoxes of the Affine Plane|[arXiv](https://arxiv.org/abs/1904.02604)| |
-|2020|_Preprint_|Arithmetic Groups and the Lehmer Conjecture|[arXiv](https://arxiv.org/abs/2005.13726)|François Thilmany|
+|2019|Transformation Groups (2020) _Published_|Uniform Kazhdan Constants and Paradoxes of the Affine Plane|[arXiv](https://arxiv.org/abs/1904.02604), [Published](https://rdcu.be/b6dYO)| |
+|2020|_Submitted_|Arithmetic Groups and the Lehmer Conjecture|[arXiv](https://arxiv.org/abs/2005.13726)|François Thilmany|
 
 <!---
 ## Current Teaching
