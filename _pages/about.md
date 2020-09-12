@@ -15,7 +15,7 @@ With [Dmitry Kleinbock](http://people.brandeis.edu/~kleinboc/), I co-organize th
 
 I received my Ph.D. in Mathematics from [Yale University](https://math.yale.edu/) in 2019. I am fortunate to have had Professors Gregory Margulis (Yale University) and Emmanuel Breuillard (University of Cambridge) as advisers.
 
-I am primarily interested in algebraic groups, arithmetic groups, and their generalizations. and representation theory I enjoy learning about their connections to pretty much any other topic (click [here](https://lamlaurentpham.github.io/publications/) for more details).
+I am primarily interested in algebraic groups, arithmetic groups, and their generalizations, and representation theory. I enjoy learning about their connections to pretty much any other topic (click [here](https://lamlaurentpham.github.io/publications/) for more details).
 
 Previously, I received an M.S. in Computational & Mathematical Engineering at Stanford University (with a short stint in the Mechanical Engineering Department), focusing mostly on probability theory. Even earlier, I received an M.S. in Aerospace Engineering (with a focus on Plasma Physics) and a Diplôme d'Ingénieur at Ecole Centrale Paris, where I studied [Plasma Assisted Combustion](https://ieeexplore.ieee.org/document/6012535).
 
