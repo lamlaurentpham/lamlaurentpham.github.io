@@ -15,6 +15,12 @@ author_profile: true
 Let $G=\mathrm{SL}(2,\mathbb{Z})\ltimes\mathbb{Z}^2$ and $H=\mathrm{SL}(2,\mathbb{Z})$. We prove that the action $G\curvearrowright\mathbb{R}^2$ is uniformly non-amenable and that the quasi-regular representation of $G$ on $\ell^2(G/H)$ has a uniform spectral gap. Both results are a consequence of a uniform quantitative form of ping-pong for affine transformations, which we establish here.
 </details>
 
+(2) Arithmetic Groups and the Lehmer Conjecture (2020), accepted for publication, _Israel Journal of Mathematics_ (2020), [ArXiV](https://arxiv.org/abs/2005.13726)
+<details>
+  <summary>Abstract</summary>
+In this paper, we generalize a result of Sury and show that uniform discreteness of cocompact lattices in higher rank semisimple Lie groups is equivalent to a weak form of Lehmer's conjecture. We also survey some related conjectures.
+  </details>
+
 -----
 
 # Book translations
