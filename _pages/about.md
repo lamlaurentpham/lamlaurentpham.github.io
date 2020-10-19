@@ -24,7 +24,7 @@ Previously, I received an M.S. in Computational & Mathematical Engineering at St
 | Year | Status | Title | Link(s) | Co-Author |
 |---|---|---|---|---|
 |2020|_Transformation Groups_|Uniform Kazhdan Constants and Paradoxes of the Affine Plane|[arXiv](https://arxiv.org/abs/1904.02604), [Published](https://rdcu.be/b6dYO)| |
-|2020|_Accepted, Israel Journal of Mathematics_|Arithmetic Groups and the Lehmer Conjecture|[arXiv](https://arxiv.org/abs/2005.13726)|François Thilmany|
+|2020|_Accepted, Israel Journal of Mathematics_|Arithmetic Groups and the Lehmer Conjecture|[arXiv](https://arxiv.org/abs/2005.13726)|[François Thilmany](https://perso.uclouvain.be/francois.thilmany/)|
 
 <!---
 ## Current Teaching
