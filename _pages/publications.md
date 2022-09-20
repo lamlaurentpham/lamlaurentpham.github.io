@@ -11,7 +11,7 @@ author_profile: true
 -----
 
 
-Bottom of the Length Spectrum of Arithmetic Orbifolds (with [Mikolaj Fraczyk](https://sites.google.com/view/mikolaj-fraczyk/home)), _submitted_ [ArXiV](https://arxiv.org/abs/2207.02332)
+### Bottom of the Length Spectrum of Arithmetic Orbifolds (with [Mikolaj Fraczyk](https://sites.google.com/view/mikolaj-fraczyk/home)), _submitted_ [ArXiV](https://arxiv.org/abs/2207.02332)
 
 <details>
  <summary> Abstract </summary> 
