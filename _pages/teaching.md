@@ -9,12 +9,17 @@ redirect_from:
 
 ## Brandeis University
 
-| Year | Period | Course Number | Course Title | Webpage |
-|---|---|---|---|---|
-|2020|Fall|Math 224b| Lie Groups|[Link](https://lamlaurentpham.github.io/teaching/2020-S-MATH224B)|
-|2020|Fall|Math 110b| Introduction to real analysis (part 2)|[Link](https://lamlaurentpham.github.io/teaching/2020-S-MATH110B)|
-|2019|Fall|Math 110a| Introduction to real analysis (part 2)|[Link](https://lamlaurentpham.github.io/teaching/2019-F-MATH110A)|
-|2019|Fall|Math 39a| Introduction to combinatorics|[Link](https://lamlaurentpham.github.io/teaching/2019-F-MATH39A)|
+| Year | Period | Course Number | Course Title |
+|---|---|---|---|
+|2023|Spring|Math 251a|Topics in Algebra|
+|2023|Spring|Math 102a|Introduction Differential Geometry|
+|2022|Fall|Math 100a|Introduction to Algebra (part 1)|
+|2022|Spring|Math 15a|Applied Linear Algebra|
+|2021|Fall|Math 110a|Introduction to Real Analysis (part 1)|
+|2020|Fall|Math 224b| Lie Groups|
+|2020|Fall|Math 110b| Introduction to Real Analysis (part 2)|
+|2019|Fall|Math 110a| Introduction to Real Analysis (part 1)|
+|2019|Fall|Math 39a| Introduction to Combinatorics|
 
 ## Yale University
 
