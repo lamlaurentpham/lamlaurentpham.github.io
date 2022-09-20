@@ -35,7 +35,7 @@ author_profile: true
 > Let $G=\mathrm{SL}(2,\mathbb{Z})\ltimes\mathbb{Z}^2$ and $H=\mathrm{SL}(2,\mathbb{Z})$. We prove that the action $G\curvearrowright\mathbb{R}^2$ is uniformly non-amenable and that the quasi-regular representation of $G$ on $\ell^2(G/H)$ has a uniform spectral gap. Both results are a consequence of a uniform quantitative form of ping-pong for affine transformations, which we establish here.
 </details>
 
-#### Logarithmic diameter bounds for some Cayley graphs, with Xin Zhang, [_Journal of Group Theory (2022)_](https://doi.org/10.1515/jgth-2020-0115)
+#### Logarithmic diameter bounds for some Cayley graphs (with Xin Zhang), [_Journal of Group Theory (2022)_](https://doi.org/10.1515/jgth-2020-0115)
 
 <details>
   <summary>Abstract</summary>
