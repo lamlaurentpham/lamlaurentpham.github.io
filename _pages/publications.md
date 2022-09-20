@@ -50,7 +50,7 @@ Let $S\subset \mathrm{GL}(n,\mathbb{Z})$ be a finite symmetric set. We show that
 # Book translations
 -----
 
-#### Introduction aux groupes arithmétiques (1969), by Armand Borel. University Lecture Series volume 73 (American Mathematical Society), [AMS Bookstore](https://bookstore.ams.org/ulect-73)
+Introduction aux groupes arithmétiques (1969), by Armand Borel. University Lecture Series volume 73 (American Mathematical Society), [AMS Bookstore](https://bookstore.ams.org/ulect-73)
 <details>
   <summary>About</summary>
 From the American Mathematical Society: Fifty years after it made the transition from mimeographed lecture notes to a published book, Armand Borel's Introduction aux groupes arithmétiques continues to be very important for the theory of arithmetic groups. In particular, Chapter III of the book remains the standard reference for fundamental results on reduction theory, which is crucial in the study of discrete subgroups of Lie groups and the corresponding homogeneous spaces.
