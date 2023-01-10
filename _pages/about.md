@@ -52,10 +52,12 @@ I enjoy translating and giving a new breath of life to old French mathematics cl
 
 
 
-## Current Teaching
+## Teaching
 
 | Year | Semester | Course Title | Course Number |
 |---|---|---|---|
+|2023|Spring|Topics in Algebra: Arithmetic Groups|Math 251a|
+|2023|Spring|Introduction to Differential Geometry|Math 102a|
 |2022|Fall|Introduction to Algebra Part I|Math 100a|
 
 
