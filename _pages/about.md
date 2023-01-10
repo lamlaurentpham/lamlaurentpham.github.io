@@ -14,7 +14,7 @@ Together with [Dmitry Kleinbock](http://people.brandeis.edu/~kleinboc/), [Han Li
 
 I received my Ph.D. in Mathematics from [Yale University](https://math.yale.edu/) in 2019. I am fortunate to have had Professors Gregory Margulis (Yale University) and Emmanuel Breuillard (University of Cambridge) as advisers.
 
-I am primarily interested in arithmetic groups, and their generalizations, in particular, connections to number theory and geometry.
+I am primarily interested in arithmetic groups and their generalizations, with connections to number theory and geometry.
 
 <!---
 Previously, I received an M.S. in Computational & Mathematical Engineering at Stanford University (with a short stint in the Mechanical Engineering Department), focusing mostly on probability theory. Even earlier, I received an M.S. in Aerospace Engineering (with a focus on Plasma Physics) and a Diplôme d'Ingénieur at Ecole Centrale Paris, where I studied [Plasma Assisted Combustion](https://ieeexplore.ieee.org/document/6012535).
@@ -24,18 +24,21 @@ Previously, I received an M.S. in Computational & Mathematical Engineering at St
 
 |Year|Date|Location|Seminar|
 |---|---|---|---|
-|2022|Oct 20|Zoom|New England Dynamics and Number Theory Seminar|
 |2023|Mar 4-5|Wesleyan|A Dynamical Weekend at Wesleyan|
+|2023|Feb 6|Yale|Group actions and dynamics seminar|
+|2023|Feb 13|Brown|Algebra seminar|
+|2022|Oct 20|Zoom|New England Dynamics and Number Theory Seminar|
 
 
-## Recent Papers
+
+## Research Works
 
 | Year | Journal | Title | Link(s) | Co-Author |
 |---|---|---|---|---|
-|2022|_Submitted_|Bottom of the Length Spectrum of Arithmetic Orbifolds|[ArXiV](https://arxiv.org/abs/2207.02332)|[Mikolaj Fraczyk](https://sites.google.com/view/mikolaj-fraczyk/home)|
-|2022|_J. Group Theory_|Logarithmic diameter bounds for some Cayley graphs|[DOI](https://doi.org/10.1515/jgth-2020-0115)|Xin Zhang|
-|2022|_Transformation Groups_|Uniform Kazhdan Constants and Paradoxes of the Affine Plane|[arXiv](https://arxiv.org/abs/1904.02604), [DOI](https://doi.org/10.1007/s00031-020-09600-5)| |
-|2021|_Israel Journal of Mathematics_|Arithmetic Groups and the Lehmer Conjecture|[arXiv](https://arxiv.org/abs/2005.13726), [DOI](https://doi.org/10.1007/s11856-021-2229-7)|[François Thilmany](https://perso.uclouvain.be/francois.thilmany/)|
+|2022|_Transactions of the AMS_ (to appear)|Bottom of the Length Spectrum of Arithmetic Orbifolds|[journal](https://doi.org/10.1090/tran/8886) [ArXiV](https://arxiv.org/abs/2207.02332)|[Mikolaj Fraczyk](https://sites.google.com/view/mikolaj-fraczyk/home)|
+|2022|_J. Group Theory_|Logarithmic diameter bounds for some Cayley graphs|[journal](https://doi.org/10.1515/jgth-2020-0115)|Xin Zhang|
+|2022|_Transformation Groups_|Uniform Kazhdan Constants and Paradoxes of the Affine Plane|[arXiv](https://arxiv.org/abs/1904.02604), [journal](https://doi.org/10.1007/s00031-020-09600-5)| |
+|2021|_Israel Journal of Mathematics_|Arithmetic Groups and the Lehmer Conjecture|[arXiv](https://arxiv.org/abs/2005.13726), [journal](https://doi.org/10.1007/s11856-021-2229-7)|[François Thilmany](https://perso.uclouvain.be/francois.thilmany/)|
 
 ## Books and Translations
 
