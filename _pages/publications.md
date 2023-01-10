@@ -11,7 +11,7 @@ author_profile: true
 -----
 
 
-Bottom of the Length Spectrum of Arithmetic Orbifolds (with [Mikolaj Fraczyk](https://sites.google.com/view/mikolaj-fraczyk/home)), to appear in [_Transactions of the AMS_](https://doi.org/10.1090/tran/8886) [ArXiV](https://doi.org/10.48550/arXiv.2207.02332)
+Bottom of the Length Spectrum of Arithmetic Orbifolds (with [Mikolaj Fraczyk](https://sites.google.com/view/mikolaj-fraczyk/home)), to appear in [_Transactions of the AMS (2023)_](https://doi.org/10.1090/tran/8886), ([ArXiV](https://doi.org/10.48550/arXiv.2207.02332))
 
 <details>
  <summary> Abstract </summary> 
@@ -19,7 +19,7 @@ Bottom of the Length Spectrum of Arithmetic Orbifolds (with [Mikolaj Fraczyk](ht
 We prove that cocompact arithmetic lattices in a simple Lie group are uniformly discrete if and only if the Salem numbers are uniformly bounded away from 1. We also prove an analogous result for semisimple Lie groups. Finally, we shed some light on the structure of the bottom of the length spectrum of an arithmetic orbifold $\Gamma\backslash X$ by showing the existence of a positive constant $\delta(X)>0$ such that squares of lengths of closed geodesics shorter than $\delta$ must be pairwise linearly dependent over $\mathbb{Q}$.
 </details>
 
-Arithmetic Groups and the Lehmer Conjecture, (with [François Thilmany](https://perso.uclouvain.be/francois.thilmany/)), [_Israel Journal of Mathematics_ (2021)](https://doi.org/10.1007/s11856-021-2229-7) [ArXiV](https://doi.org/10.48550/arXiv.2005.13726)
+Arithmetic Groups and the Lehmer Conjecture, (with [François Thilmany](https://perso.uclouvain.be/francois.thilmany/)), [_Israel Journal of Mathematics_ (2021)](https://doi.org/10.1007/s11856-021-2229-7) ([ArXiV](https://doi.org/10.48550/arXiv.2005.13726))
 
 <details>
  <summary> Abstract</summary>
@@ -28,7 +28,7 @@ We generalize a result of Sury [1992] and prove that uniform discreteness of coc
   </details>
 
 Uniform Kazhdan constants and paradoxes of the plane, [_Transformation Groups_ (2022)](https://doi.org/10.1007/s00031-020-09600-5)
-<!---(1) Uniform Kazhdan constants and paradoxes of the plane (2019), [_Transformation Groups (2022)_](https://rdcu.be/b6dYO), [ArXiv](https://arxiv.org/abs/1904.02604)
+<!---(1) Uniform Kazhdan constants and paradoxes of the plane (2019), [_Transformation Groups (2022)_](https://rdcu.be/b6dYO), ([ArXiv](https://arxiv.org/abs/1904.02604))
 --->
 
 <details>
