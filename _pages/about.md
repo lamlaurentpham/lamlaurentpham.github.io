@@ -46,9 +46,9 @@ Previously, I received an M.S. in Computational & Mathematical Engineering at St
 I enjoy translating and giving a new breath of life to old French mathematics classics by translating them into English. Click [here](https://lamlaurentpham.github.io/publications/) for more information.
 --->
 
-| Year | Status | Author(s) | Title | Link |
+| Year | Series | Author(s) | Title | Link |
 |---|---|---|---|---|
-|1969|Published by the American Mathematical Society, edited by [Dave Witte Morris](http://people.uleth.ca/~dave.morris/) | [Armand Borel](https://en.wikipedia.org/wiki/Armand_Borel)|Introduction to Arithmetic Groups| [AMS Bookstore](https://bookstore.ams.org/ulect-73)|
+|1969|AMS University Lecture Notes, edited by [Dave Witte Morris](http://people.uleth.ca/~dave.morris/) | [Armand Borel](https://en.wikipedia.org/wiki/Armand_Borel)|Introduction to Arithmetic Groups| [AMS Bookstore](https://bookstore.ams.org/ulect-73)|
 
 
 
