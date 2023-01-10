@@ -35,7 +35,7 @@ Previously, I received an M.S. in Computational & Mathematical Engineering at St
 
 | Year | Journal | Title | Link(s) | Co-Author |
 |---|---|---|---|---|
-|2022|_Transactions of the AMS_ (to appear)|Bottom of the Length Spectrum of Arithmetic Orbifolds|[journal](https://doi.org/10.1090/tran/8886) [ArXiV](https://arxiv.org/abs/2207.02332)|[Mikolaj Fraczyk](https://sites.google.com/view/mikolaj-fraczyk/home)|
+|2022+|_Transactions of the AMS_ (to appear)|Bottom of the Length Spectrum of Arithmetic Orbifolds|[journal](https://doi.org/10.1090/tran/8886) [ArXiV](https://arxiv.org/abs/2207.02332)|[Mikolaj Fraczyk](https://sites.google.com/view/mikolaj-fraczyk/home)|
 |2022|_J. Group Theory_|Logarithmic diameter bounds for some Cayley graphs|[journal](https://doi.org/10.1515/jgth-2020-0115)|Xin Zhang|
 |2022|_Transformation Groups_|Uniform Kazhdan Constants and Paradoxes of the Affine Plane|[arXiv](https://arxiv.org/abs/1904.02604), [journal](https://doi.org/10.1007/s00031-020-09600-5)| |
 |2021|_Israel Journal of Mathematics_|Arithmetic Groups and the Lehmer Conjecture|[arXiv](https://arxiv.org/abs/2005.13726), [journal](https://doi.org/10.1007/s11856-021-2229-7)|[François Thilmany](https://perso.uclouvain.be/francois.thilmany/)|
