@@ -11,7 +11,7 @@ author_profile: true
 -----
 
 
-Bottom of the Length Spectrum of Arithmetic Orbifolds (with [Mikolaj Fraczyk](https://sites.google.com/view/mikolaj-fraczyk/home)), to appear in [_Transactions of the AMS (2023)_](https://doi.org/10.1090/tran/8886), ([ArXiV](https://doi.org/10.48550/arXiv.2207.02332))
+Bottom of the Length Spectrum of Arithmetic Orbifolds (with [Mikolaj Fraczyk](https://sites.google.com/view/mikolaj-fraczyk/home)), to appear in [_Transactions of the AMS (2023)_](https://doi.org/10.1090/tran/8886) ([ArXiV](https://doi.org/10.48550/arXiv.2207.02332))
 
 <details>
  <summary> Abstract </summary> 
