@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Contact: first dot last at ugent dot be
-
 I am a postdoc at Ghent University, in the Algebra group led by [Tom De Medts](https://algebra.ugent.be/~tdemedts/index.php), and part of the EOS project "High-dimensional expanders and Kac-Moody-Steinberg groups" (in collaboration with Timothée Marquis and Pierre-Emmanuel Caprace from UCLouvain). I am also collaborateur scientifique at the ULB in the cryptography group (department of computer science.
 
 Previously, I was an Instructor in Mathematics at [Brandeis University](http://www.brandeis.edu/mathematics/) and a postdoctoral fellow at the [Einstein Institute of Mathematics of the Hebrew University of Jerusalem](https://mathematics.huji.ac.il/), hosted by [Elon Lindenstrauss](http://www.ma.huji.ac.il/~elon/index.html) and supported by a Zuckerman fellowship.
