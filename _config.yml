@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Lam Pham"
-description              : &description "Instructor in Mathematics, Brandeis University"
+name                     : &name "Lam L. Pham"
+description              : &description "Postdoc in Mathematics, Ghent  University"
 url                      : https://lamlaurentpham.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Lam Pham"
   avatar           : "Picture-Lam-Laurent-Pham.jpg"
-  bio              : "Instructor in Mathematics, Brandeis University"
-  location         : "Boston, MA"
+  bio              : "Postdoc in Mathematics, Ghent  University"
+  location         : "Ghent, Belgium"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=9Olnp38AAAAJ"
-  email            : "lampham@brandeis.edu"
+  googlescholar    : ""
+  email            : "Lam.Pham@ugent.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : #"www.lamlaurentpham.com"
   bitbucket        :
