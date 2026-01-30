@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lam Pham"
+  name             : "Lam L. Pham"
   avatar           : "Picture-Lam-Laurent-Pham.jpg"
-  bio              : "Postdoc in Mathematics, Ghent  University"
-  location         : "Ghent, Belgium"
+  bio              : "Postdoc in Mathematics, Ghent University"
+  location         : #"Ghent, Belgium"
   employer         :
-  googlescholar    : ""
+  googlescholar    : #""
   email            : "Lam.Pham@ugent.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : #"www.lamlaurentpham.com"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lamlaurentpham"
+  github           : #"lamlaurentpham"
   google_plus      :
   keybase          :
   instagram        :
