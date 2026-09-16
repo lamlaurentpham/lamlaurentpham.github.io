@@ -20,8 +20,9 @@ Various areas of post-quantum cryptography, quantum computing, arithmetic groups
 
 ## Research Publications
 
+- Small degree isogenies between conjugate principally polarized superspecial abelian surfaces (2026, [arXiv](https://arxiv.org/abs/2609.17330))
 - Another Look at the Quantum Security of the Vectorization Problem with Shifted Inputs, with P. Frixons, V. Gilchrist, P. Kutas, S.-P. Merz, C. Petit. _EUROCRYPT 2026_ ([proceedings](https://doi.org/10.1007/978-3-032-25291-3_22), [eprint](https://eprint.iacr.org/2025/376)).
-- Bottom of the Length Spectrum of Arithmetic Orbifolds, with [Mikolaj Fraczyk](https://sites.google.com/view/mikolaj-fraczyk/home). _Transactions of the AMS_ (2023) ([journal](https://doi.org/10.1090/tran/8886), [ArXiV](https://arxiv.org/abs/2207.02332))
+- Bottom of the Length Spectrum of Arithmetic Orbifolds, with [Mikolaj Fraczyk](https://sites.google.com/view/mikolaj-fraczyk/home). _Transactions of the AMS_ (2023) ([journal](https://doi.org/10.1090/tran/8886), [arXiv](https://arxiv.org/abs/2207.02332))
 - Uniform Kazhdan Constants and Paradoxes of the Affine Plane. _Transformation Groups_ (2022) ([journal](https://doi.org/10.1007/s00031-020-09600-5), [arXiv](https://arxiv.org/abs/1904.02604))
 - Arithmetic Groups and the Lehmer Conjecture, with [François Thilmany](https://perso.uclouvain.be/francois.thilmany/). _Israel Journal of Mathematics_ (2021) ([journal](https://doi.org/10.1007/s11856-021-2229-7), [arXiv](https://arxiv.org/abs/2005.13726))
 - Logarithmic diameter bounds for some Cayley graphs, with Xin Zhang. _J. Group Theory_ (2022) ([journal](https://doi.org/10.1515/jgth-2020-0115))
