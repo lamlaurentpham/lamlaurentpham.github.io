@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Lam L. Pham"
-description              : &description "Postdoc in Mathematics, Ghent  University"
+description              : &description "Postdoctoral researcher in cryptography, Université Libre de Bruxelles (ULB)"
 url                      : https://lamlaurentpham.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Lam L. Pham"
   avatar           : "Picture-Lam-Laurent-Pham.jpg"
-  bio              : "Postdoc in Mathematics, Ghent University"
-  location         : #"Ghent, Belgium"
+  bio              : "Postdoctoral researcher in cryptography, Université Libre de Bruxelles (ULB)"
+  location         : #"Brussels, Belgium"
   employer         :
   googlescholar    : #""
-  email            : "Lam.Pham@ugent.edu"
+  email            : "lam.pham@ulb.be"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : #"www.lamlaurentpham.com"
   bitbucket        :
