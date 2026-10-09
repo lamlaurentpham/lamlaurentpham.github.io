@@ -20,6 +20,7 @@ Various areas of post-quantum cryptography, quantum computing, arithmetic groups
 
 ## Research Publications
 
+- A uniform bound for the minimal degree of an isogeny between principally polarized superspecial abelian surfaces (2026, [arXiv](https://arxiv.org/abs/2610.12080))
 - Small degree isogenies between conjugate principally polarized superspecial abelian surfaces (2026, [arXiv](https://arxiv.org/abs/2609.17330))
 - Another Look at the Quantum Security of the Vectorization Problem with Shifted Inputs, with P. Frixons, V. Gilchrist, P. Kutas, S.-P. Merz, C. Petit. _EUROCRYPT 2026_ ([proceedings](https://doi.org/10.1007/978-3-032-25291-3_22), [eprint](https://eprint.iacr.org/2025/376)).
 - Bottom of the Length Spectrum of Arithmetic Orbifolds, with [Mikolaj Fraczyk](https://sites.google.com/view/mikolaj-fraczyk/home). _Transactions of the AMS_ (2023) ([journal](https://doi.org/10.1090/tran/8886), [arXiv](https://arxiv.org/abs/2207.02332))
