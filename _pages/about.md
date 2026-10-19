@@ -20,7 +20,7 @@ Various areas of post-quantum cryptography, quantum computing, arithmetic groups
 
 ## Research Publications
 
-- Computing endomorphisms of superspecial principally polarized abelian surfaces in time and memory $p^{4/5+o(1)}$ [Marc Houben](https://houbenmr.github.io/) (2026, [ePrint](https://eprint.iacr.org/2026/2530))
+- Computing endomorphisms of superspecial principally polarized abelian surfaces in time and memory $p^{4/5+o(1)}$, with [Marc Houben](https://houbenmr.github.io/) (2026, [ePrint](https://eprint.iacr.org/2026/2530))
 - A uniform bound for the minimal degree of an isogeny between principally polarized superspecial abelian surfaces (2026, [arXiv](https://arxiv.org/abs/2610.12080))
 - Small degree isogenies between conjugate principally polarized superspecial abelian surfaces (2026, [arXiv](https://arxiv.org/abs/2609.17330))
 - Another Look at the Quantum Security of the Vectorization Problem with Shifted Inputs, with P. Frixons, V. Gilchrist, P. Kutas, S.-P. Merz, C. Petit. _EUROCRYPT 2026_ ([proceedings](https://doi.org/10.1007/978-3-032-25291-3_22), [eprint](https://eprint.iacr.org/2025/376)).
