@@ -16,7 +16,7 @@ I received my Ph.D. in Mathematics from [Yale University](https://math.yale.edu/
 
 ## Research Interests
 
-Various areas of post-quantum cryptography, quantum computing, arithmetic groups and algebraic groups, locally symmetric spaces, number theory, harmonic analysis, representation theory.
+Mathematics, Cryptography, and Quantum Computing, including various areas of post-quantum cryptography, quantum computing, arithmetic groups and algebraic groups, locally symmetric spaces, number theory, harmonic analysis, representation theory.
 
 ## Preprints
 
